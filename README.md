@@ -1,5 +1,7 @@
 # 💫 About Me:
-📖I`m a full time student at Laurea University of Applied Sciences studying Business Information Technologies specializing in software development.<br>🔍I'm currently learning Fullstack development through the Fullstack Open Course from University of Helsinki<br>
+📖I`m a full time student at Laurea University of Applied Sciences studying Business Information Technologies specializing in software development.<br>
+
+🔍I'm currently learning Fullstack development through the Fullstack Open Course from University of Helsinki<br>
 
 
 ## 🌐 Socials:
