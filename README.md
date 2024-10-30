@@ -1,7 +1,9 @@
 # 💫 About Me:
 📖I`m a full time student at Laurea University of Applied Sciences studying Business Information Technologies specializing in software development.<br>
 
-🔍I'm currently learning about creating APIs and system integration as a whole.<br>
+## 🍳🧑‍🍳 Currently Cooking
+- Portfolio project
+- Revisiting old projects and making improvements
 
 
 ## 🌐 Socials:
