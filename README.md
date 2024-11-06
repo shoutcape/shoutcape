@@ -2,8 +2,7 @@
 📖I`m a full time student at Laurea University of Applied Sciences studying Business Information Technologies specializing in software development.<br>
 
 ## 🍳🧑‍🍳 Currently Cooking
-- Portfolio project
-- Revisiting old projects and making improvements
+- Casino App with multiple games and user balance
 
 ## 📜 Portfolio
 https://villekautiainen.com
