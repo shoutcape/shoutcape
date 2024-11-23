@@ -5,7 +5,7 @@
 - null
 
 ## 📜 Portfolio
-https://villekautiainen.com
+[villekautiainen.com](https://villekautiainen.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/villekautiainen)
