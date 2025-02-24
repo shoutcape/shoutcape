@@ -2,7 +2,7 @@
 📖I`m a student at Laurea University of Applied Sciences studying Business Information Technologies specializing in software development.<br>
 
 ## 🍳🧑‍🍳 Currently Cooking
-- [Waypoint](https://github.com/shoutcape/Waypoint)
+- null
 
 ## 📜 Portfolio
 [villekautiainen.com](https://villekautiainen.com)
