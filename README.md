@@ -1,9 +1,6 @@
 # 💫 About Me:
 📖I`m a student at Laurea University of Applied Sciences studying Business Information Technologies specializing in software development.<br>
 
-## 🍳🧑‍🍳 Currently Cooking
-- Workout tracking app
-
 ## 📜 Portfolio
 [villekautiainen.com](https://villekautiainen.com)
 
